@@ -17,10 +17,8 @@ if (age >= 13 && age <= 19){ // age is greater than or equal to 13 or less than 
 return ('You are a teenager!')
 } else if (age < 12){
   return ('You are a kid')
-} else if (age > 20) {
-return ('You are a grownup')
-  }
-}
+  } 
+} 
 
 }
 
