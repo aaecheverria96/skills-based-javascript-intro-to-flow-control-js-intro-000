@@ -37,22 +37,22 @@ case "13"  // You are a teenager if age is greater than or equal to 13 || age is
     break;
 case "14"
   ('You are a teenager');
-  break; 
+  break;
 case "15"
-  ('You are a teenager'); 
-  break; 
+  ('You are a teenager');
+  break;
 case "16"
-    ('You are a teenager'); 
-      break; 
+    ('You are a teenager');
+      break;
 case "17"
-  ('You are a teenager'); 
-  break; 
-case "18" 
-  ('You are a teenager'); 
-  break; 
-case "19" 
-    ('You are a teenager'); 
-    break; 
+  ('You are a teenager');
+  break;
+case "18"
+  ('You are a teenager');
+  break;
+case "19"
+    ('You are a teenager');
+    break;
   default:
     return('You have an age');
   }
