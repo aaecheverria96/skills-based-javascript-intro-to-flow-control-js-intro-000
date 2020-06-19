@@ -32,25 +32,25 @@ if (age >= 13 && age <= 19){ // age is greater than or equal to 13 or less than 
 
 function switchAge(age) {
 switch(age){
-case 13  // You are a teenager if age is greater than or equal to 13 || age is less than or equal to 19
+case 13:  // You are a teenager if age is greater than or equal to 13 || age is less than or equal to 19
   return"You are a teenager";
   break;
-case 14
+case 14:
   return"You are a teenager";
   break;
-case 15
+case 15:
   return"You are a teenager";
   break;
-case 16
+case 16:
    return"You are a teenager";
    break;
-case 17
+case 17:
   return"You are a teenager";
   break;
-case 18
+case 18:
   return"You are a a teenager";
   break;
-case 19
+case 19:
     return"You are a teenager";
     break;
   default:
