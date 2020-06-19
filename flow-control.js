@@ -31,11 +31,11 @@ if (age >= 13 && age <= 19){ // age is greater than or equal to 13 or less than 
 }
 
 function switchAge(age) {
-Switch (age){
+Switch(age){
 case "You are a teenager"  // You are a teenager if age is greater than or equal to 13 || age is less than or equal to 19
-  (age >= 13 && age <= 19);
+  console.log(age >= 13 && age <= 19);
     break;
-    default:
-    ('You have an age');
+  default:
+    console.log('You have an age');
   }
 }
